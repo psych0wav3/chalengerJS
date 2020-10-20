@@ -1,0 +1,8 @@
+Um cliente pediu para você desenvolver um site para apresentação dos produtos da sua empresa
+Uma das exigencias dele é que a pagina principal tenha um banner como cabeçalho que muda a cada
+3 segundos, e cada banner é uma imagem de oferta.
+
+Seu papel nesse projeto é como interatividade, então outros membros da equipe ja fizeram a estrutura 
+HTML e CSS, então vc precisara fazer essa interação que o cliente exigiu com o banner.
+
+Boa sorte Guria muhahahaha

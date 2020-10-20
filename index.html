@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VAI APRENDER JS SIIIIIIM!!!</title>
+    <script src="index.js"></script>
+</head>
+<style>
+header {
+    width: 100%;
+}
+
+#img{
+        position: absolute;
+        width: 100%;
+        height: 400px;
+}
+#next{
+    z-index: 10;
+    position: relative;
+    top: 200px;
+    left: 1200px;
+    width: 100px;
+    height: 60px;
+    
+}
+
+#next:hover{
+    cursor: pointer;
+}
+</style>
+<body>
+    <header>
+        <img src="banner1.jpg" alt="" id="img">
+        <img src="next.png" onclick="mudarBanner()" alt="" id="next">
+        
+    </header>
+</body>
+</html>
